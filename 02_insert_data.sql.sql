@@ -4,3 +4,6 @@ INSERT INTO students VALUES
 (322,'Mike',20,'Mathematics'),
 (422,'Emma',23,'Artificial Intelligence');
 select * from students;
+
+insert into students values(1123 ,  'Sudheer ydav' , 23 , 'Comp[uter science
+');
